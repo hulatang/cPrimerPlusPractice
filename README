@@ -1,3 +1,4 @@
 Hello, this is my first README 	file.
 I'm creating this repo to practice my coding skill in C.
 I'm adding a new line.
+Using: git commit -a to skip using: git add files
