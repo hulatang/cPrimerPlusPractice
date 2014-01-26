@@ -18,7 +18,7 @@ int main(void)
 	/* 14.5833 converst pounds to ounce , 1 pound = 14.5833 ounce */
 
 	value = 1700.0 * weight * 14.5833;
-	printf("Your weight in platinum is worth $%.2f.\n", value);
+	printf("Your weight in platinum is worth $%.3f.\n", value);
 	printf("eat more to maintain your value.\n");
 
 	return 0;
